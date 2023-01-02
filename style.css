@@ -5,7 +5,8 @@
 }
 
 body {
-  background-color: #226391;
+  /* background: url(./Bluesky_V3_Animation.gif); */
+  background:linear-gradient(rgb(247, 234, 234),rgb(98, 203, 98));
   color: #fff;
   font-family: 'Poppins', sans-serif;
   display: flex;
@@ -15,6 +16,9 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+}
+h1{
+  color: black;
 }
 
 .user-form {
